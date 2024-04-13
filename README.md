@@ -1,1 +1,1 @@
-# ECGR-_4127_ML_for_IoT
+# ECGR 4127 ML for IoT
